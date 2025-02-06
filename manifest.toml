@@ -73,7 +73,7 @@ ram.runtime = "50M" # FIXME: replace with an **estimate** minimum ram requiremen
 
     [resources.sources.main]
     url = "https://akkoma-updates.s3-website.fr-par.scw.cloud/stable/akkoma-amd64.zip"
-    sha256 = "146b148be0e71482e7614246b8a0c563a5c45ed6581e20f70035b3e3a2377ba2"
+    sha256 = "646c1ed88792ebd74f2ad33e487aff397ad03de6e99cb0f551ec212b6bda8ea2"
     # autoupdate.strategy = "latest_github_release" # How to implement this ?
     # autoupdate.asset = ".*\\.zip"
     
